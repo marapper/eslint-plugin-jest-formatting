@@ -46,7 +46,7 @@ Then configure the rules you want to use under the rules section.
 
 _or_
 
-You can use our recommeneded settings which enables all of the rules for you
+You can use our recommended settings which enables all of the rules for you
 
 ```json
 {
